@@ -1,7 +1,5 @@
 dextro-cli -datadir=/root/.dextro stop
 sleep 1
-dextro-cli -datadir=/root/.dextro1 stop
-sleep 1
 dextro-cli -datadir=/root/.dextro2 stop
 sleep 1
 dextro-cli -datadir=/root/.dextro3 stop
