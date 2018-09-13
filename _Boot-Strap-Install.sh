@@ -67,3 +67,4 @@ rm -r .dextro10/chainstate
 rm -r .dextro10/peers.dat
 
 echo -e "Adding bootstrap files to Dxo node 10";
+
